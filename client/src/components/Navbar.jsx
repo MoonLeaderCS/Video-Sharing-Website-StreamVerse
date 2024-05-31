@@ -85,7 +85,7 @@ const Input = styled.input`
   margin-left: 10px;
   margin-right: 8px;
   font-size: 16px;
-  color: ${({ theme }) => theme.soft};
+  color: ${({ theme }) => theme.text};
   @media (max-width: 768px) {
     font-size: 14px;
   }
